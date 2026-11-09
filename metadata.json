@@ -1,0 +1,6 @@
+{
+  "name": "ElectroCAD",
+  "description": "ElectroCAD – Advanced Interactive Circuit Simulator & Designer App with multi-touch gestures, component search, smart wire cutting, electron wave visualization, Room DB persistence, and image export. Developed by Md Shafiul Islam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
